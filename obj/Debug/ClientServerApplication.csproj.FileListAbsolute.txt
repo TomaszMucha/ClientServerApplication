@@ -1,0 +1,10 @@
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\bin\Debug\ClientServerApplication.exe.config
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\bin\Debug\ClientServerApplication.exe
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\bin\Debug\ClientServerApplication.pdb
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.csprojAssemblyReference.cache
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.Form1.resources
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.Properties.Resources.resources
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.csproj.GenerateResource.cache
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.csproj.CoreCompileInputs.cache
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.exe
+c:\users\tomas\source\repos\ClientServerApplication\ClientServerApplication\obj\Debug\ClientServerApplication.pdb
